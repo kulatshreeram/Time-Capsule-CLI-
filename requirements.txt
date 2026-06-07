@@ -1,0 +1,8 @@
+click>=8.1
+cryptography>=42.0
+rfc3161ng>=1.1
+rich>=13.0
+gitpython>=3.1
+requests>=2.31
+pytest>=8.0
+pytest-mock>=3.12
